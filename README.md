@@ -62,7 +62,7 @@ I'm looking to collaborate on projects that involve:
 
 | **Category**                | **Tools & Technologies**                                      |  
 |-----------------------------|-------------------------------------------------------------|  
-| Programming Languages       | Python, R, SQL, Java                                        |  
+| Programming Languages       | Python, R, SQL                                             |  
 | Data Visualization          | Tableau, Power BI, Matplotlib, Seaborn                     |  
 | Data Engineering            | Apache Spark, NiFi, Hadoop, Kafka, Airflow                 |  
 | Databases                   | MySQL, PostgreSQL, MongoDB, Cassandra, HBase               |  
